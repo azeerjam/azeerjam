@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azeerjam
-- 👀 I’m interested in machine learning ,mathematics and game development 
-- 🌱 I’m currently learning python,MSSQL, calculus ,linear algebra 
+- 👀 I’m interested in Data science, Artificial intelligence and machine learning 
+- 🌱 I’m currently learning python,MySQL, calculus ,linear algebra 
 - 💞️ I’m looking to collaborate on machine leanring 
 - 📫 How to reach me 
 
